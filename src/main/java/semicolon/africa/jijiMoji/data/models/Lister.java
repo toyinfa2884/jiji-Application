@@ -1,6 +1,7 @@
 package semicolon.africa.jijiMoji.data.models;
 
 import lombok.Data;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.time.LocalDateTime;
 
